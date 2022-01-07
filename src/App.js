@@ -12,7 +12,7 @@ const App = () => {
       <Navbar />
       <Another />
       <a href="https://www.linkedin.com/in/abdur-rahman-razu-1303b4183/">
-        <Button variant="danger">My Linkdin Profile</Button>
+        <Button variant="danger">My-Linkdin-Profile</Button>
       </a>
 
       <Accordion>
